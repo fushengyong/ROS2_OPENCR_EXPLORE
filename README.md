@@ -74,7 +74,7 @@ Tools -> Port -> /dev/ttyACM0
 
 #### Blink_LED
 
-<a href="url"><img src="./images/Blink_LED.gif" width="600"></a>
+<a href="url"><img src="./images/Blink_LED.gif" width="500"></a>
 
 #### Button
 
