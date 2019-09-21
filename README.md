@@ -23,4 +23,4 @@ https://synthiam.com/GettingStarted/Build-Robots/Robotis-OpenCR-17531
 
 <a href="url"><img src="./images/opencr_pinout.png" width="800"></a>  
 
-<! -- <a href="url"><img src="./images/specs.png" width="500"></a> -->
+<!-- <a href="url"><img src="./images/specs.png" width="500"></a> -->
