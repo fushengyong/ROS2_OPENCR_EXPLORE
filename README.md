@@ -78,15 +78,16 @@ Tools -> Port -> /dev/ttyACM0
 
 #### Button
 
-[REFERENCE DEMO](https://www.youtube.com/watch?v=8RfEmWHOjlQ)
+[REFERENCE DEMO](https://www.youtube.com/watch?v=8RfEmWHOjlQ)  
 
 #### Buzzer
 
-[REFERENCE DEMO](https://www.youtube.com/watch?v=gvICseDo0SQ)
+[REFERENCE DEMO](https://www.youtube.com/watch?v=gvICseDo0SQ)  
 
 #### PWM
 
-<a href="url"><img src="./images/pwm.png" width="500"></a>
+<a href="url"><img src="./images/pwm.png" width="500"></a>  
 
+### Bootloader
 
 
